@@ -1,18 +1,16 @@
 # Topics in Quantitative Finance: Machine Learning for Finance (2017-18 Module 3)
 
 ## Announcements
-* 
+* __[NEW]__ Email is the preferred method of communication. Mail list will be set up soon.
 
 ## Course Note
-*
+* To be uploaded soon
 
 ## Lectures:
-* __01__ (02.26 Mon): Course overview ([Syllabus](files/syllabus.pdf))
+* __01__ (02.26 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Python, Github, Etc.
 
 ## Homeworks:
-* ### __Set 1__
-* ### __Set 2__
-
+* ### __Set 1__ [due by course cancel deadline]: register on Github.com and let TA know your ID
 
 ## Classes: 
 * Lectures: Monday & Thursday 8:30 AM – 10:20 AM
@@ -37,11 +35,13 @@ The purpose of Topics in Quantitative Finance is to introduce students to recent
 There is no formal prerequisites. However, undergraduate-level knowledge in probability/statistics and previous experience in programming language is highly recommended.
 
 ##  Textbooks and Reading Materials
-- __PML__: [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition) by Sebastian Raschka: primary textbook
-- __ISLR__: [An Introduction to Statistical Learning (with Applications in R)](http://www-bcf.usc.edu/~gareth/ISL/) by James, Witten, Hastie and Tibshirani
+- __PML__ (primary textbook): [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition) by Sebastian Raschka
+- __ISLR__: [An Introduction to Statistical Learning (with Applications in R)](http://www-bcf.usc.edu/~gareth/ISL/) by James, Witten, Hastie, and Tibshirani
 - __CML__: [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) taught by Andrew Ng
-- __DL__: [Deep Learning by Goodfellow](http://www.deeplearningbook.org/), Bengio and Aaron Courville
+- __DL__: [Deep Learning](http://www.deeplearningbook.org/) by Goodfellow, Bengio, and Courville
 
 ## Assessment / Grading Details
 * Attendance 20%, __Mid-term Exam 20% (New)__, Assignments 20%, Final Exam 40%
-* Mid-term exam will be in week 6 or 7
+* __Mid-term exam__ and __project proposal__ will be in week 6 or 7
+* Exams are open-book without computer/phone/calculator use
+* Grade in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or above < 90%__.
