@@ -10,7 +10,9 @@
 * __01__ (02.26 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Python, Github, Etc.
 
 ## Homeworks:
-* ### __Set 1__ [due by course cancel deadline]: register on Github.com and let TA know your ID
+* ### __Set 1__ [due by course cancel deadline]: 
+  * Register on Github.com and let TA know your ID. Give your full name in your profile.
+  * Install Python Aanconda and Github Desktop. Send screenshots to TA
 
 ## Classes: 
 * Lectures: Monday & Thursday 8:30 AM – 10:20 AM
@@ -44,4 +46,5 @@ There is no formal prerequisites. However, undergraduate-level knowledge in prob
 * Attendance 20%, __Mid-term Exam 20% (New)__, Assignments 20%, Final Exam 40%
 * __Mid-term exam__ and __project proposal__ will be in week 6 or 7
 * Exams are open-book without computer/phone/calculator use
+* You may form a group of up to 2 people for course project. Extra credit will be given to individual projects.
 * Grade in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or above < 90%__.
