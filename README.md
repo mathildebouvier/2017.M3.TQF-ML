@@ -7,7 +7,7 @@
 * To be uploaded soon
 
 ## Lectures:
-* __02__ (03.01 Thur): Python Notebook, Github Desktop, [Slides](files/TQF_Notes.pdf) (Intro, Vector Matrix Notations, Linear Regression)
+* __02__ (03.01 Thur): Python Notebook, Github Desktop, [Python Crash Course](py/Cheatsheet_Derek_Banas.ipynb), [Slides](files/TQF_Notes.pdf) (Intro, Vector Matrix Notations, Linear Regression)
 * __01__ (02.26 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Python, Github, Etc.
 
 ## Homeworks:
