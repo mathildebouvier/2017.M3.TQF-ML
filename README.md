@@ -7,13 +7,14 @@
 * To be uploaded soon
 
 ## Lectures:
+* __02__ (03.01 Thur): Python Notebook, Github Desktop, [Slides](files/TQF_Notes.pdf) (Intro, Vector Matrix Notations, Linear Regression)
 * __01__ (02.26 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Python, Github, Etc.
 
 ## Homeworks:
-* ### __Set 1__ [due by course cancel deadline]: 
+* ### __Set 1__ [Due by 3.5.]: 
   * Register on Github.com and let TA know your ID. Give your full name in your profile.
-  * Install Python Aanconda and Github Desktop. Send screenshots to TA
-
+  * Install Python Aanconda and Github Desktop. Clone [rasbt/python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition) and run `code/ch01/ch01.ipynb`  Send screenshots to TA
+  
 ## Classes: 
 * Lectures: Monday & Thursday 8:30 AM – 10:20 AM
 * Venue: PHBS Building, Room 229
@@ -37,10 +38,14 @@ The purpose of Topics in Quantitative Finance is to introduce students to recent
 There is no formal prerequisites. However, undergraduate-level knowledge in probability/statistics and previous experience in programming language is highly recommended.
 
 ##  Textbooks and Reading Materials
-- __PML__ (primary textbook): [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition) by Sebastian Raschka
-- __ISLR__: [An Introduction to Statistical Learning (with Applications in R)](http://www-bcf.usc.edu/~gareth/ISL/) by James, Witten, Hastie, and Tibshirani
-- __CML__: [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) taught by Andrew Ng
-- __DL__: [Deep Learning](http://www.deeplearningbook.org/) by Goodfellow, Bengio, and Courville
+* __PML__ (primary textbook): [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition) by Sebastian Raschka
+* __ISLR__: [An Introduction to Statistical Learning (with Applications in R)](http://www-bcf.usc.edu/~gareth/ISL/) by James, Witten, Hastie, and Tibshirani
+* __CML__: [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) taught by Andrew Ng
+* __DL__: [Deep Learning](http://www.deeplearningbook.org/) by Goodfellow, Bengio, and Courville
+
+## Useful Github Repositories
+* __PML__: [rasbt/python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+* __ISLR-Python__: [JWarmenhoven/ISLR-python](https://github.com/JWarmenhoven/ISLR-python) __ISRL__ implemented in Python
 
 ## Assessment / Grading Details
 * Attendance 20%, __Mid-term Exam 20% (New)__, Assignments 20%, Final Exam 40%
