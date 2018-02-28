@@ -14,7 +14,7 @@
 * ### __Set 1__ [Due by 3.5.]: 
   * Register on Github.com and let TA know your ID. Give your full name in your profile.
   * Install Python Aanconda and Github Desktop. Clone [rasbt/python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition) and run `code/ch01/ch01.ipynb`  Send screenshots to TA
-  
+
 ## Classes: 
 * Lectures: Monday & Thursday 8:30 AM – 10:20 AM
 * Venue: PHBS Building, Room 229
@@ -44,8 +44,8 @@ There is no formal prerequisites. However, undergraduate-level knowledge in prob
 * __DL__: [Deep Learning](http://www.deeplearningbook.org/) by Goodfellow, Bengio, and Courville
 
 ## Useful Github Repositories
-* __PML__: [rasbt/python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
-* __ISLR-Python__: [JWarmenhoven/ISLR-python](https://github.com/JWarmenhoven/ISLR-python) __ISRL__ implemented in Python
+* __PML__: [PHBS/python-machine-learning-book-2nd-edition](https://github.com/PHBS/python-machine-learning-book-2nd-edition) (forked)
+* __ISLR-Python__: [PHBS/ISLR-python](https://github.com/JWarmenhoven/ISLR-python) (forked) __ISRL__ implemented in Python
 
 ## Assessment / Grading Details
 * Attendance 20%, __Mid-term Exam 20% (New)__, Assignments 20%, Final Exam 40%
