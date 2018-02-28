@@ -13,6 +13,7 @@
 ## Homeworks:
 * ### __Set 1__ [Due by 3.5.]: 
   * Register on Github.com and let TA know your ID. Give your full name in your profile.
+  * Accept invitation to `2017.TQF-ML` team from TA
   * Install Python Aanconda and Github Desktop. Clone [rasbt/python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition) and run `code/ch01/ch01.ipynb`  Send screenshots to TA
 
 ## Classes: 
