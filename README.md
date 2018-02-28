@@ -14,7 +14,7 @@
 * ### __Set 1__ [Due by 3.5.]: 
   * Register on Github.com and let TA know your ID. Give your full name in your profile.
   * Accept invitation to `2017.TQF-ML` team from TA
-  * Install Python Aanconda and Github Desktop. Clone [rasbt/python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition) and run `code/ch01/ch01.ipynb`  Send screenshots to TA
+  * Install Python Aanconda and Github Desktop. Clone [PHBS/python-machine-learning-book-2nd-edition](https://github.com/PHBS/python-machine-learning-book-2nd-edition) and run `code/ch01/ch01.ipynb`  Send screenshots to TA
 
 ## Classes: 
 * Lectures: Monday & Thursday 8:30 AM – 10:20 AM
@@ -39,7 +39,11 @@ The purpose of Topics in Quantitative Finance is to introduce students to recent
 There is no formal prerequisites. However, undergraduate-level knowledge in probability/statistics and previous experience in programming language is highly recommended.
 
 ##  Textbooks and Reading Materials
-* __PML__ (primary textbook): [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition) by Sebastian Raschka
+* __PML__ (primary textbook): [Python Machine Learning](https://github.com/rasbt/python
+
+
+
+learning-book-2nd-edition) by Sebastian Raschka
 * __ISLR__: [An Introduction to Statistical Learning (with Applications in R)](http://www-bcf.usc.edu/~gareth/ISL/) by James, Witten, Hastie, and Tibshirani
 * __CML__: [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) taught by Andrew Ng
 * __DL__: [Deep Learning](http://www.deeplearningbook.org/) by Goodfellow, Bengio, and Courville
