@@ -53,7 +53,7 @@ learning-book-2nd-edition) by Sebastian Raschka
 * __ISLR-Python__: [PHBS/ISLR-python](https://github.com/JWarmenhoven/ISLR-python) (forked) __ISRL__ implemented in Python
 
 ## Assessment / Grading Details
-* Attendance 20%, __Mid-term Exam 20% (New)__, Assignments 20%, Final Exam 40%
+* Attendance 20%, __Mid-term Exam 20% (New)__, Assignments 20%, Final Project 40%
 * __Mid-term exam__ and __project proposal__ will be in week 6 or 7
 * Exams are open-book without computer/phone/calculator use
 * You may form a group of up to 2 people for course project. Extra credit will be given to individual projects.
