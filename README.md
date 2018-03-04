@@ -6,7 +6,7 @@
 ## Course Note
 
 ## Lectures:
-* __02__ (03.05 Mon): [Python Crash Course](py/Cheatsheet_Derek_Banas.ipynb) (continued), [Slides](files/TQF_Notes.pdf) (Intro, Vector Matrix Notations, Linear Regression)
+* __03__ (03.05 Mon): [Python Crash Course](py/Cheatsheet_Derek_Banas.ipynb) (continued), [Slides](files/TQF_Notes.pdf) (Intro, Vector Matrix Notations, Linear Regression)
 * __02__ (03.01 Thur): Python Notebook, Github Desktop, [Python Crash Course](py/Cheatsheet_Derek_Banas.ipynb)
 * __01__ (02.26 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Python, Github, Etc.
 
