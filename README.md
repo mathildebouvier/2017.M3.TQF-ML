@@ -39,9 +39,7 @@ The purpose of Topics in Quantitative Finance is to introduce students to recent
 There is no formal prerequisites. However, undergraduate-level knowledge in probability/statistics and previous experience in programming language is highly recommended.
 
 ##  Textbooks and Reading Materials
-* __PML__ (primary textbook): [Python Machine Learning](https://github.com/rasbt/python
-
-
+* __PML__ (primary textbook): [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 
 learning-book-2nd-edition) by Sebastian Raschka
 * __ISLR__: [An Introduction to Statistical Learning (with Applications in R)](http://www-bcf.usc.edu/~gareth/ISL/) by James, Witten, Hastie, and Tibshirani
