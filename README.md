@@ -1,12 +1,14 @@
 # Topics in Quantitative Finance: Machine Learning for Finance (2017-18 Module 3)
 
 ## Announcements
-* __[NEW]__ Email is the preferred method of communication. Mail list will be set up soon.
+* __[NEW 3.7]__ Class mailing list is created as PHBS.TQF@allmail.net. If you did not receive a test e-mail, let me know.
+* [2.26] Email is the preferred method of communication. Mail list will be set up soon.
 
 ## Course Note
 
 ## Lectures:
-* __03__ (03.05 Mon): [Python Crash Course](py/Cheatsheet_Derek_Banas.ipynb) (continued), [Slides](files/TQF_Notes.pdf) (Intro, Vector Matrix Notations, Linear Regression)
+* __04__ (03.08 Thur): [Slides](files/TQF_Notes.pdf) (Vector Matrix Notations, Linear Regression)
+* __03__ (03.05 Mon): [Python Crash Course](py/Cheatsheet_Derek_Banas.ipynb) (continued), [Slides](files/TQF_Notes.pdf) (Intro)
 * __02__ (03.01 Thur): Python Notebook, Github Desktop, [Python Crash Course](py/Cheatsheet_Derek_Banas.ipynb)
 * __01__ (02.26 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Python, Github, Etc.
 
