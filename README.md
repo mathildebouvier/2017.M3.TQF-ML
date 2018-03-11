@@ -7,7 +7,8 @@
 ## Course Note
 
 ## Lectures:
-* __04__ (03.08 Thur): [Slides](files/TQF_Notes.pdf) (Vector Matrix Notations, Linear Regression)
+* __05__ (03.12 Mon): __PML__ Ch. 2, [Slides](files/TQF_Notes.pdf) (Logistic Regression)
+* __04__ (03.08 Thur): [Slides](files/TQF_Notes.pdf) (Vector Matrix Notations, Linear Regression), __ISLR-python__ Ch. 3
 * __03__ (03.05 Mon): [Python Crash Course](py/Cheatsheet_Derek_Banas.ipynb) (continued), [Slides](files/TQF_Notes.pdf) (Intro)
 * __02__ (03.01 Thur): Python Notebook, Github Desktop, [Python Crash Course](py/Cheatsheet_Derek_Banas.ipynb)
 * __01__ (02.26 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Python, Github, Etc.
@@ -50,7 +51,7 @@ learning-book-2nd-edition) by Sebastian Raschka
 
 ## Useful Github Repositories
 * __PML__: [PHBS/python-machine-learning-book-2nd-edition](https://github.com/PHBS/python-machine-learning-book-2nd-edition) (forked)
-* __ISLR-Python__: [PHBS/ISLR-python](https://github.com/JWarmenhoven/ISLR-python) (forked) __ISRL__ implemented in Python
+* __ISLR-Python__: [PHBS/ISLR-python](https://github.com/PHBS/ISLR-python) (forked) __ISRL__ implemented in Python
 
 ## Assessment / Grading Details
 * Attendance 20%, __Mid-term Exam 20% (New)__, Assignments 20%, Final Project 40%
