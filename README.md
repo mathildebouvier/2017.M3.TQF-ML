@@ -7,8 +7,8 @@
 ## Course Note
 
 ## Lectures:
-* __05__ (03.12 Mon): __PML__ Ch. 2, [Slides](files/TQF_Notes.pdf) (Logistic Regression)
-* __04__ (03.08 Thur): [Slides](files/TQF_Notes.pdf) (Vector Matrix Notations, Linear Regression), __ISLR-python__ Ch. 3
+* __05__ (03.12 Mon): __PML__ Ch. 2 (Perceptron, Adaline, Gradient descent), [Slides](files/TQF_Notes.pdf) (Weight update)
+* __04__ (03.08 Thur): [Slides](files/TQF_Notes.pdf) (Vector Matrix Notations, Linear/Logistic Regression), __ISLR-python__ Ch. 3
 * __03__ (03.05 Mon): [Python Crash Course](py/Cheatsheet_Derek_Banas.ipynb) (continued), [Slides](files/TQF_Notes.pdf) (Intro)
 * __02__ (03.01 Thur): Python Notebook, Github Desktop, [Python Crash Course](py/Cheatsheet_Derek_Banas.ipynb)
 * __01__ (02.26 Mon): Course overview ([Syllabus](files/syllabus.pdf)), Python, Github, Etc.
