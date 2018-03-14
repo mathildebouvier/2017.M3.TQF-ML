@@ -20,7 +20,7 @@
   * Accept invitation to `2017.TQF-ML` team from TA
   * Install Python Aanconda and Github Desktop. Clone [PHBS/python-machine-learning-book-2nd-edition](https://github.com/PHBS/python-machine-learning-book-2nd-edition) and run `code/ch01/ch01.ipynb`  Send screenshots to TA
 * ### Data Set 1 
-  * Wine Quality: [UCI](https://archive.ics.uci.edu/ml/datasets/Wine+Quality), [Download](files/DataSet1)
+  * Bank Marketing Data Set : [UCI](http://archive.ics.uci.edu/ml/datasets/Bank+Marketing), [Download](files/DataSet1)
 
 
 ## Classes: 
