@@ -19,6 +19,9 @@
   * Register on Github.com and let TA know your ID. Give your full name in your profile.
   * Accept invitation to `2017.TQF-ML` team from TA
   * Install Python Aanconda and Github Desktop. Clone [PHBS/python-machine-learning-book-2nd-edition](https://github.com/PHBS/python-machine-learning-book-2nd-edition) and run `code/ch01/ch01.ipynb`  Send screenshots to TA
+* ### Data Set 1 
+  * Wine Quality: [UCI](https://archive.ics.uci.edu/ml/datasets/Wine+Quality), [Download](files/DataSet1)
+
 
 ## Classes: 
 * Lectures: Monday & Thursday 8:30 AM – 10:20 AM
