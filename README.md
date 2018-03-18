@@ -23,10 +23,12 @@
   * Create your own GitHub repository for homework `GITHUB_ID/PHBS_TQFML` (make sure to make it __public__)
   * Bank Marketing Data Set: [UCI](http://archive.ics.uci.edu/ml/datasets/Bank+Marketing), [Download](files/DataSet1)
   * Write a Jupyter notebook `GITHUB_ID/PHBS_TQFML/HW/bank_marketing.ipynb`:
-    * load (`bank.csv`, smaller sample), normalize, and devide training/test sets
+    * load data (`bank.csv`, smaller sample), normalize, and devide training/test sets
     * randomly select 2 or 3 features
     * apply the methods covered in Ch. 3 with SK-learn (logistic regress, SVM, decision tree, etc)
-    * check the accuracy and visualize the outcome
+    * check the accuracy and plot the outcome
+    * repeat above to find better feature
+    * commit the best result
   
 ## Classes: 
 * Lectures: Monday & Thursday 8:30 AM – 10:20 AM
