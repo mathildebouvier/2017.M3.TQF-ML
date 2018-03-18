@@ -28,7 +28,7 @@
     * apply the methods covered in Ch. 3 with SK-learn (logistic regress, SVM, decision tree, etc)
     * check the accuracy and plot the outcome
     * repeat above to find better feature
-    * commit the best result
+    * commit the best result and don't foget to `sync` to the repository
   
 ## Classes: 
 * Lectures: Monday & Thursday 8:30 AM – 10:20 AM
