@@ -8,8 +8,8 @@
 ## Course Note
 
 ## Lectures:
-* __08__ (03.22 Thur): __PML__ Ch. 4 (Data preprocessing, Feature selection)
-* __07__ (03.19 Mon): __PML__ Ch. 3 (Kernel SVM, KNN, Decision Tree), [Slides](files/TQF_Notes.pdf) (SVM)
+* __08__ (03.22 Thur): __PML__ Ch. 4 (Data preprocessing, Feature selection) Ch. 5 ([SVD/PCA](files/SVD_PCA.pdf))
+* __07__ (03.19 Mon): __PML__ Ch. 3 (Kernel SVM, KNN, Decision Tree), [Slides](files/TQF_Notes.pdf) (SVM, Tree)
 * __06__ (03.15 Thur): __PML__ Ch. 3 (Logistic Regression, Regularization, SVM), [Slides](files/TQF_Notes.pdf) (SVM)
 * __05__ (03.12 Mon): __PML__ Ch. 2 (Perceptron, Adaline, Gradient descent), [Slides](files/TQF_Notes.pdf) (Weight update)
 * __04__ (03.08 Thur): [Slides](files/TQF_Notes.pdf) (Vector Matrix Notations, Linear/Logistic Regression), __ISLR-python__ Ch. 3
