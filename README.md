@@ -1,13 +1,14 @@
 # Topics in Quantitative Finance: Machine Learning for Finance (2017-18 Module 3)
 
 ## Announcements
-* __[NEW 3.19]__ Mid-term exam will be on 4.9 (W9 Monday)
+* __[NEW 3.19]__ Mid-term exam will be on 4.9 (W7 Monday, __Rm 401__)
 * [3.7] Class mailing list is created as PHBS.TQF@allmail.net. If you did not receive a test e-mail, let me know.
 * [2.26] Email is the preferred method of communication. Mail list will be set up soon.
 
 ## Course Note
 
 ## Lectures:
+* __10__ (03.29 Thurs): __PML__ Ch. 6 Bias-variance tradeoff, Cross validation
 * __09__ (03.26 Mon): __PML__ Ch. 5 Feature extraction ([SVD/PCA](files/SVD_PCA.pdf) and LDA)
 * __08__ (03.22 Thur): __PML__ Ch. 4 (Data preprocessing, Feature selection)
 * __07__ (03.19 Mon): __PML__ Ch. 3 (Kernel SVM, KNN, Decision Tree), [Slides](files/TQF_Notes.pdf) (SVM, Tree)
