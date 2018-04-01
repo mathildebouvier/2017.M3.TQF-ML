@@ -9,7 +9,7 @@
 ## Course Note
 
 ## Lectures:
-* __18__ (04.26 Thur): Students Thesis Presentation
+* __18__ (04.26 Thur): ML-related thesis presentation by two students
 * .....
 * __11__ (04.02 Mon): __PML__ Ch. 6 Confusion matrix, F1 score, ROC AUC, Ch 7
 * __10__ (03.29 Thur): __PML__ Ch. 6 Bias-variance tradeoff, Cross validation
