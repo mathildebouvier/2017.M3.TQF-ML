@@ -1,7 +1,7 @@
 # Topics in Quantitative Finance: Machine Learning for Finance (2017-18 Module 3)
 
 ## Announcements
-* __[NEW 4.02]__ Group formation, Project proposal (__4.12 W7 Thur__), Presentation (__5.3 Thur__ or __5.7 Mon__ evening?)
+* __[NEW 4.02]__ Group formation, Project proposal (__4.12 W7 Thur__), Presentation (__5.7 Mon 7PM__)
 * __[NEW 3.19]__ Mid-term exam will be on 4.9 (W7 Monday, __Rm 401__)
 * [3.7] Class mailing list is created as PHBS.TQF@allmail.net. If you did not receive a test e-mail, let me know.
 * [2.26] Email is the preferred method of communication. Mail list will be set up soon.
@@ -77,6 +77,7 @@ learning-book-2nd-edition) by Sebastian Raschka
 * Attendance 20%, __Mid-term Exam 20% (New)__, Assignments 20%, Final Project 40%
 * __Mid-term exam__: 4.9 (W7 Mon)
 * __Project proposal__: 4.12 (W7 Thur)
+* __Presentation (5.7 Mon 7PM)__
 * Exams are open-book without computer/phone/calculator use
 * You may form a group of up to 2 people for course project. Extra credit will be given to individual projects.
 * Grade in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and B- or above < 90%__.
