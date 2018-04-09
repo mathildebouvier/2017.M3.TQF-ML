@@ -11,6 +11,7 @@
 ## Lectures:
 * __18__ (04.26 Thur): ML-related thesis presentation by two students
 * .....
+* __13__ (04.09 Mon): Mid-term exam (Rm 401) [Solution (not available yet)](files/TQF-ML2017_Midterm.pdf)
 * __12__ (04.04 Wed): __PML__ Ch. 7 Bagging/RF/AdaBoosting, Ch 8 Quick Glimpse
 * __11__ (04.02 Mon): __PML__ Ch. 6 Confusion matrix, F1 score, ROC AUC, Ch 7
 * __10__ (03.29 Thur): __PML__ Ch. 6 Bias-variance tradeoff, Cross validation
