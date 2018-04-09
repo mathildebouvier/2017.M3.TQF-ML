@@ -40,6 +40,9 @@
     * check the accuracy and plot the outcome
     * repeat above to find better feature
     * commit the best result and don't foget to `sync` to the repository
+* ### Project proposal [Due by the end of 4.12]
+  * Email __repository name, team members, data set and brief plan__ to Professor and TA
+  * Designate one repository `GITHUB_ID/PHBS_TQFML/Project` and create `README.md` file to have the information above
   
 ## Classes: 
 * Lectures: Monday & Thursday 8:30 AM – 10:20 AM
