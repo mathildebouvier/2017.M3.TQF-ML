@@ -1,7 +1,7 @@
 # Topics in Quantitative Finance: Machine Learning for Finance (2017-18 Module 3)
 
 ## Announcements
-* __[NEW 4.02]__ Group formation, Project proposal (__4.12 W7 Thur__), Presentation (__5.7 Mon 7PM__)
+* __[NEW 4.02]__ Group formation, Project proposal (__4.12 W7 Thur__), Presentation (__5.7 Mon 7PM__) ([Project List](Project_List.md))
 * __[NEW 3.19]__ Mid-term exam will be on 4.9 (W7 Monday, __Rm 401__)
 * [3.7] Class mailing list is created as PHBS.TQF@allmail.net. If you did not receive a test e-mail, let me know.
 * [2.26] Email is the preferred method of communication. Mail list will be set up soon.
@@ -13,7 +13,7 @@
 * __17__
 * __16__
 * __15__
-* __14__ (04.12 Thurs): Project proposal, __PML__ Ch. 11 Unsupervised learning
+* __14__ (04.12 Thurs): Project proposal ([Project List](Project_List.md)), __PML__ Ch. 11 Unsupervised learning
 * __13__ (04.09 Mon): Mid-term exam (Rm 401) [Solution](files/TQF2017_Midterm.pdf)
 * __12__ (04.04 Wed): __PML__ Ch. 7 Bagging/RF/AdaBoosting, Ch 8 Quick Glimpse
 * __11__ (04.02 Mon): __PML__ Ch. 6 Confusion matrix, F1 score, ROC AUC, Ch 7
