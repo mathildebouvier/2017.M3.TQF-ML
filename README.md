@@ -10,7 +10,9 @@
 
 ## Lectures:
 * __18__ (04.26 Thur): ML-related thesis presentation by two students
-* .....
+* __17__
+* __16__
+* __15__
 * __14__ (04.12 Thurs): Project proposal, __PML__ Ch. 11 Unsupervised learning
 * __13__ (04.09 Mon): Mid-term exam (Rm 401) [Solution](files/TQF2017_Midterm.pdf)
 * __12__ (04.04 Wed): __PML__ Ch. 7 Bagging/RF/AdaBoosting, Ch 8 Quick Glimpse
@@ -74,6 +76,7 @@ learning-book-2nd-edition) by Sebastian Raschka
 * __ISLR__: [An Introduction to Statistical Learning (with Applications in R)](http://www-bcf.usc.edu/~gareth/ISL/) by James, Witten, Hastie, and Tibshirani
 * __CML__: [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) taught by Andrew Ng
 * __DL__: [Deep Learning](http://www.deeplearningbook.org/) by Goodfellow, Bengio, and Courville
+* __JPM-AI__: [Big Data and AI Strategies](http://valuesimplex.com/articles/JPM.pdf) by J.P. Morgan
 
 ## Useful Github Repositories
 * __PML__: [PHBS/python-machine-learning-book-2nd-edition](https://github.com/PHBS/python-machine-learning-book-2nd-edition) (forked)
