@@ -1,6 +1,5 @@
 # Course Project List
 
-
 * [AtomMe](https://github.com/AtomMe/PHBS_TQFML/tree/master/Project) [x1]
 * [kylinanddragon](https://github.com/kylinanddragon/GITHUB_1701213097-PHBS_TQFML-Project) [x1]: Individual P2P data of RenRenDai
 * [ZheshengZhang](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project) [x1]: LSTM-based method for stock returns prediction
@@ -18,3 +17,7 @@
 * [DengQingqin](https://github.com/DengQingqin/PHBS_TQFML-Sentiment-Measures-on-Stock-Market) [x1]: Sentiment Measures on Stock Market
 * Hang ZHANG, Wei ZHANG, Linsheng ZHUANG and Lei ZHANG [x4]: Bitcoin price prediction
 * [zouqinjing](https://github.com/zouqinjing/PHBS_TQFML/tree/master/Project) [x1]: Breast tumor
+* [xiechenpku](https://github.com/xiechenpku/PHBS_TQFML/tree/master/Project) [x1]: League of Legends matches (Kaggle)
+* [1994115](https://github.com/zzg1994115/PHBS_TQFML/tree/master/Project) [x1]: League of Legends matches (Kaggle)
+* yayraperfect(Github ID right?) [x3]: Momentum TRADING WITH MACHINE LEARNING METHODOLOGIES
+* 
