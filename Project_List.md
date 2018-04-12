@@ -20,7 +20,7 @@
 * [zouqinjing](https://github.com/zouqinjing/PHBS_TQFML/tree/master/Project) [x1]: Breast tumor
 * [xiechenpku](https://github.com/xiechenpku/PHBS_TQFML/tree/master/Project) [x1]: League of Legends matches (Kaggle)
 * [1994115](https://github.com/zzg1994115/PHBS_TQFML/tree/master/Project) [x1]: League of Legends matches (Kaggle)
-* yayraperfect(Github ID right?) [x3]: Momentum TRADING WITH MACHINE LEARNING METHODOLOGIES
+* [perfectyayra](https://github.com/perfectyayra/PHBS_TQFML) [x3]: Momentum TRADING WITH MACHINE LEARNING METHODOLOGIES
 * [evanleungc](https://github.com/evanleungc/PHBS_TQFML/blob/master/Project) [x4]: Predict low-risk profitable trading opportunity with high frequency trading data
 * [labro](https://github.com/labro/PHBS_TQFML/tree/master/Project) [x2]: An investment model based on stock price info and stock revivews on the intenet
 * [YedaDu](https://github.com/YedaDu/PHBS_TQFML_Project) [x4]: Idiosyncratic Market Value Factor: explaining market value by machine learning methods
