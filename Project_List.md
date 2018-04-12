@@ -22,3 +22,4 @@
 * [1994115](https://github.com/zzg1994115/PHBS_TQFML/tree/master/Project) [x1]: League of Legends matches (Kaggle)
 * yayraperfect(Github ID right?) [x3]: Momentum TRADING WITH MACHINE LEARNING METHODOLOGIES
 * [evanleungc](https://github.com/evanleungc/PHBS_TQFML/blob/master/Project) [x4]: Predict low-risk profitable trading opportunity with high frequency trading data
+* [labro](https://github.com/labro/PHBS_TQFML/tree/master/Project) [x2]: An investment model based on stock price info and stock revivews on the intenet
