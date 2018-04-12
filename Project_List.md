@@ -1,6 +1,6 @@
 # Course Project List
 
-* [AtomMe](https://github.com/AtomMe/PHBS_TQFML/tree/master/Project) [x1]
+* [AtomMe](https://github.com/AtomMe/PHBS_TQFML/tree/master/Project/Credit) [x1]: The Prediction of Credit User's Overdue event Based on Machine Learning Method ([Competition](https://open.chinaums.com/#/intro))
 * [kylinanddragon](https://github.com/kylinanddragon/GITHUB_1701213097-PHBS_TQFML-Project) [x1]: Individual P2P data of RenRenDai
 * [ZheshengZhang](https://github.com/ZheshengZhang/ZheshengZhang-PHBS_TQFML-Project) [x1]: LSTM-based method for stock returns prediction
 * [MattaUmaMaheswaraReddy](http://www.github.com/MattaUmaMaheswaraReddy/PHBS_ML_Project) [x2]: Housing Price (Kagggle)
