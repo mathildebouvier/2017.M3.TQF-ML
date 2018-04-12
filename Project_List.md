@@ -16,7 +16,7 @@
 * [stuartphbs](https://github.com/stuartphbs/PHBS_TQFML-/tree/master/Project) [x1]: Wine Quality (UCI)
 * [yipanglin](https://github.com/yipanglin/PHBS_TQFML/tree/master/Project) [x1]: NBA MVP prediction
 * [DengQingqin](https://github.com/DengQingqin/PHBS_TQFML-Sentiment-Measures-on-Stock-Market) [x1]: Sentiment Measures on Stock Market
-* Hang ZHANG, Wei ZHANG, Linsheng ZHUANG and Lei ZHANG [x4]: Bitcoin price prediction
+* [LeiZHANG1995](https://github.com/LeiZHANG1995/PHBS_TQFML/tree/master/Project) [x4]: Bitcoin price prediction
 * [zouqinjing](https://github.com/zouqinjing/PHBS_TQFML/tree/master/Project) [x1]: Breast tumor
 * [xiechenpku](https://github.com/xiechenpku/PHBS_TQFML/tree/master/Project) [x1]: League of Legends matches (Kaggle)
 * [1994115](https://github.com/zzg1994115/PHBS_TQFML/tree/master/Project) [x1]: League of Legends matches (Kaggle)
