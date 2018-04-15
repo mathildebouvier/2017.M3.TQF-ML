@@ -25,3 +25,4 @@
 * [labro](https://github.com/labro/PHBS_TQFML/tree/master/Project) [x2]: An investment model based on stock price info and stock revivews on the intenet
 * [YedaDu](https://github.com/YedaDu/PHBS_TQFML_Project) [x4]: Idiosyncratic Market Value Factor: explaining market value by machine learning methods
 * [UvoChow](https://github.com/UvoChow/PHBS_TQFML/tree/master/Project) [x1]: Sentiment Analysis of Guba Forum
+* [ansonwongphbs](https://github.com/ansonwongphbs/PHBS_TQFML) [x1]: TBA
