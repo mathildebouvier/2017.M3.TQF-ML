@@ -12,8 +12,8 @@
 * __18__ (04.26 Thur): ML-related thesis presentation by two students
 * __17__
 * __16__
-* __15__
-* __14__ (04.12 Thurs): Project proposal ([Project List](Project_List.md)), __PML__ Ch. 11 Unsupervised learning
+* __15__ (04.16 Mon): __PML__ Ch. 11 Unsupervised learning, Ch. 12 Neural Networks
+* __14__ (04.12 Thurs): Project proposal ([Project List](Project_List.md)), 
 * __13__ (04.09 Mon): Mid-term exam (Rm 401) [Solution](files/TQF2017_Midterm.pdf)
 * __12__ (04.04 Wed): __PML__ Ch. 7 Bagging/RF/AdaBoosting, Ch 8 Quick Glimpse
 * __11__ (04.02 Mon): __PML__ Ch. 6 Confusion matrix, F1 score, ROC AUC, Ch 7
