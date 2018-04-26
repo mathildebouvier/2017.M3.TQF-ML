@@ -8,8 +8,11 @@
   * Use links to data or `.ipynb` files ([example report from last  year](https://github.com/JiayuCai/2016.M3.TQF-ML.cross-currecy-basis))
 * In `.ipynb`, 
   * Put command cell and edit cell (comments) in a balanced way. (Do not only put code!)
+  * Put a brief table of contents with links (example: __PML__)
+  * You may breakdown code into several `.ipynb` files by function (e.g., data cleaning, learning, result analysis). In that case, make sure to __save__ intermediate result into file so that I can run the later steps (result analysis) without running previous steps (data cleaning, learning).
+  * The use of `.py` file should be strictly restricted to function or class only. (Do not put any learning procedure in `.py`)
   * I should be able to reproduce the result from your code. Your code should run with no error. Code with error will be severely deduct your score. Make sure to run your code in a new session.
-* Other consideration
+* Other considerations:
   * Make sure the workload within team is balanced. (Add your team members to collaborators, each team members committ codes, etc)
   * There should be no secret component (e.g., stock trading strategy)
 
