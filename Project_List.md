@@ -1,6 +1,6 @@
 # Course Project Guideline
 
-* Report should be consist of one description `.md` and (possibly many) python notebooks `.ipynb`.  ( `.pdf`, `.ppt`, `.doc` not accepted.)
+* Report should be consist of one description `.md` and (possibly many) python notebooks `.ipynb`.  ( `.pdf`, `.ppt`, `.doc` __NOT__ accepted.)
 * In `.md` report, 
   * You may update your proposal file.
   * briefly describe your motivation, goal, data source, result and conclusion.
