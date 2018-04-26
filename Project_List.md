@@ -15,6 +15,7 @@
 * Other considerations:
   * Make sure the workload within team is balanced. (Add your team members to collaborators, each team members committ codes, etc)
   * There should be no secret component (e.g., stock trading strategy)
+  * Creativive (out-of-textbook) ideas are recommended for better result or result analysis
 
 # Course Project List
 
