@@ -9,9 +9,10 @@
 ## Course Note
 
 ## Lectures:
+* (05.07 Mon) [Project Presentation](Project_List.md)
 * __18__ (04.26 Thur): ML-related thesis presentation by two students
-* __17__
-* __16__
+* __17__ (04.23 Mon):  __PML__ Ch. 15 Convolutional Neural Network
+* __16__ (04.19 Thur): __PML__ Ch. 13, 14 Back-propagation,  Tensorflow/Keras
 * __15__ (04.16 Mon): __PML__ Ch. 11 Unsupervised learning, Ch. 12 Neural Networks
 * __14__ (04.12 Thurs): Project proposal ([Project List](Project_List.md)), 
 * __13__ (04.09 Mon): Mid-term exam (Rm 401) [Solution](files/TQF2017_Midterm.pdf)
